@@ -1,3 +1,7 @@
+import random
+from collections import deque
+
+
 class Player:
     """Общий класс предок"""
     def __init__(self, name):

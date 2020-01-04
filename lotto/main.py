@@ -1,6 +1,4 @@
-from collections import deque
 import sys
-import random
 from bingos import *
 
 
