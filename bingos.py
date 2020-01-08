@@ -1,9 +1,10 @@
+# -*- coding: utf-8 -*-
 import random
 from collections import deque
 
 
 class Player:
-    """Общий класс предок"""
+    """Общий класс-предок"""
     def __init__(self, name):
         self.name = name
         self.card = list()
